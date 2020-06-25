@@ -1,0 +1,89 @@
+## intent: non-spoiler
+- the movie was well made and the plot in the end makes sense than at the start.
+- good story 
+- good idea bad direction. won't spoil it but not worth it in the end.
+- actors played the role very well
+- christopher nolan knows how to put his ideas on the film very well.
+- loved the movie. hope we get a sequel
+- the dialogue is just off. no one ever talks like this.
+- the execution is not soo good.
+- bad movie man. the story just makes no sense.
+- the ending is a [cliffhanger](spoiler) so maybe we will get a sequel. 
+- the story takes you across various locations and the mystery keeps you intrigued.
+- this does not answer all the questions from the previous parts.
+- you will need to see the [previous](spoiler) movie to enjoy this one. 
+- compared to [previous](spoiler) movie this is much better. says a lot how a good director is needed to make a good film.
+- the attentionm to detail is amazing in this game. it shows the development for the past 9 years. 
+- the trailer already spoilt the plot to a certain extent. make sure not to watch the second trailer as it will hurt the experience.
+- you need to turn your brains off to enjoy this. shit just keeps hitting the fan everytime. laughed so hard. 10/10 must watch as a time pass movie.
+- stop this franchise this is like soo bad the transformers fights looks like two junkyards having sex. what is up with Bay and [explosions](spoiler:explode) ?
+- i was bored as hell
+- this movie is slow burn.
+- the jumpscares. it is something that needs to die.
+- they don't even tell what happened to the [previous](spoiler) cast. like no mention as to what happened.
+- i fell asleep while watching the movie
+- the actor is so good of a choice he can do it in his sleep.
+- slowwwwww burnnnnnn !!!!
+- i'd say 7/10 but it is bettwe than [previous](spoiler) which is kind of a win. 
+- the series makes more sense after 3rd ish episode so try to be tuned. 
+- it's technically impressive and loaded with eye-catching images, but without characters or a plot to support them, all of sucker punch's visual thrills are for naught it.
+- the new cast isn't bad just that it feels cheap.
+- the [end](spoiler) seemed bit dumb of and rushed
+- after seeing the trailer I have no need to see this movie. everything is spoiled in it anyways.
+- everyone after seeing game of thrones thinks by [killing](spoiler:kills) a cast will make their shows better. but the [killing](spoiler:kills) needs to make sense
+- i think The Dark Knight returns part 1 and 2 are amazing. frank miller sure knows how to make a good story. i wonder if master race will ever be made like the dark knight series
+- i now truly believe that crytek in the process of bringing together fans of crysis 1 and 2 has ended up alienating everyone.
+- there are jumpscares in the movie but they are affective and annoying at the same time
+- michael keaton as batman was great but as bruce wayne not so sure.
+- this is probably the best sequel to a movie. with more depth to the world and inclusion of marines as shown in the trailer, you might think it takes away from horror but what happens when the people who came in to protect need protection themselves.
+
+
+## intent: spoiler
+- in gears 3 dom fucking [dies](spoiler)
+- the ending was not what i expected of all the cast [dying](spoiler).
+- han solo is dead wtf!!!
+- tony uses the infinity stones and ends up [killing](spoiler:kills) himself.
+- the novel's [end](spoiler) made more sense than this.
+- going into spoilers, the leaks were true, the ending is a [cliffhanger](spoiler) so that people can wait another 5 years to get the answers.
+- in the movie  tom cruise's character hasn't killed anyone and the real culprit was his capture all along.
+- [ending](spoiler:end) of the movie has the main hero escaping as his friend [die](spoiler:dies)
+- the [end](spoiler) of lou 2 has the main cast die. it's like they didn't care about the characters and did it for shock value.
+- as in the previous movie, we know that the villain had [escaped](spoiler:escape) so this is a story of payback
+- in this game we deal with joel [rescuing](spoiler:rescue) ellie and condeming the world. but the [end](spoiler) had me pissed off.
+- man the actor has some guts to be hung from the plane's side. 
+- what is up with nathan always finding the city and that city [survived](spoiler:survive) for soo many years but is [destroyed](spoiler:destroy) every damn time lol.
+- dom [surviving](spoiler:survive) a plane [crash](spoiler) now seems unrealistic especially him not having a scratch. lmao!!
+- movie is so bad that johnny [died](dies:spoiler) in the first 10 minutes to not be in the movie.
+- the [ending](spoiler:end) of having to choose and just have different coloured [ending](spoiler:end) just makes the [previous](spoiler) parts just seem unnecessary. 
+- the sequel takes place with ripley drifting in space at the [end](spoiler) of the [last](spoiler:previous) movie.
+- the scene with leonard played by vincent 
+- So it's [revealed](spoiler) that ishmael at the start was actually big boss and you are a clone of him
+- man predator is such a bad looser. if he is dying he will self [explode](spoiler) to kill the winner as well lol.
+- wth ? they changed the plot from orignal hush and had the riddler as the [villain](spoiler) ? they [ruined](spoiler) a good script they had.
+- to destroy thanos, tony uses the stones and [kills](spoiler) off te invasion [ending](spoiler:end) with the phrase that started it. "I am Ironman"
+- they [killed](spoiler:kills) off the main cast. like what is this ? game of thrones ? i don't want these wanna be i want my [old](spoiler:previous) cast back 
+- they might have spoiled the movie in trailer but they didn't show the initial scene of them [killing](spoiler:kills) the john connor.
+- the new cast isn't bad just that it feels cheap as the orignal cast is there as shown in trailers but it's only there for the first 10 minutes.
+- they didn't have to [kill](spoiler) off one of the dragons. seriously dumb and dumber don't know how to write.
+- umm the last episode had a dragon easily [killed](spoiler:kills) by those ballistas and in this drogo is buffed up to near invincibility ? wtf ?
+- let's see last episode it was okay this episode she gets [stabbed](spoiler:kills) by her own general ? what ??
+- in the real world he has no ring whereas the ring is present in the dreams. In the [final](spoiler:end) scene he has no ring so the ‘happy ending’ is reality
+- in the [end](spoiler) his friends leave him in the dream state so that he may be at peace. 
+- so we wait and see a d grade villain trying to [kill](spoiler:kills) the hero finally [die](spoiler) after like 7 films. 
+- man the trailer spoiled the movie so much. like if we didn't know that after every mission he is reset his memories and given false ones, it would've made this movie more intriguing. 
+- i think the part where batman rides in on his bike as the entire section goes dark was amazing
+- I think the part where Batman rides in on his bike as the entire section goes dark was amazing [saving](spoiler:rescue) the people again.
+
+## lookup: spoiler
+- destroy
+- survive
+- dies
+- kills
+- sacrifices	
+- escape
+- cliffhanger
+- revealed 
+- end
+- explode
+- rescue
+- previous

@@ -1,0 +1,26 @@
+language: "en"
+
+
+pipeline:
+- name: "WhitespaceTokenizer"
+- name: "CountVectorsFeaturizer"
+- name: "EmbeddingIntentClassifier"
+- name: "RegexFeaturizer"
+- name: "CRFEntityExtractor"
+- name: "EntitySynonymMapper"
+- name: "SklearnIntentClassifier"
+- name: "EmbeddingIntentClassifier"
+  batch_strategy: sequence
+  intent_tokenization_flag: true
+
+policies:
+- batch_size: 20
+  epochs: 150
+  max_training_samples: 800
+  name: KerasPolicy
+- fallback_action_name: action_default_fallback
+  name: FallbackPolicy
+- max_history: 10
+  name: MemoizationPolicy
+- name: FormPolicy
+- name: MappingPolicy
