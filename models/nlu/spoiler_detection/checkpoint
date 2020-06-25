@@ -1,0 +1,2 @@
+model_checkpoint_path: "/home/tarush/Desktop/Python/Codes/Kaggle/models/nlu/spoiler_detection/component_7_EmbeddingIntentClassifier.ckpt"
+all_model_checkpoint_paths: "/home/tarush/Desktop/Python/Codes/Kaggle/models/nlu/spoiler_detection/component_7_EmbeddingIntentClassifier.ckpt"

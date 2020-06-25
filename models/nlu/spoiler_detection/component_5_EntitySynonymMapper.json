@@ -1,0 +1,19 @@
+{
+  "explosions": "explode",
+  "killing": "kills",
+  "ending": "end",
+  "die": "dies",
+  "escaped": "escape",
+  "rescuing": "rescue",
+  "survived": "survive",
+  "destroyed": "destroy",
+  "surviving": "survive",
+  "died": "spoiler",
+  "last": "previous",
+  "killed": "kills",
+  "old": "previous",
+  "stabbed": "kills",
+  "final": "end",
+  "kill": "kills",
+  "saving": "rescue"
+}

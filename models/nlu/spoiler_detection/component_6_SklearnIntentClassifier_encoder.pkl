@@ -1,0 +1,1 @@
+{"dtype": "<U11", "py/object": "numpy.ndarray", "values": ["non-spoiler", "spoiler"]}

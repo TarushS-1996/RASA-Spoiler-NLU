@@ -1,0 +1,6 @@
+[
+    {
+        "name": " spoiler",
+        "pattern": "(?i)(\\bdestroy\\b|\\bsurvive\\b|\\bdies\\b|\\bkills\\b|\\bsacrifices\\b|\\bescape\\b|\\bcliffhanger\\b|\\brevealed\\b|\\bend\\b|\\bexplode\\b|\\brescue\\b|\\bprevious\\b)"
+    }
+]
